@@ -5,7 +5,11 @@ It compares **Popularity-based**, **User–User Collaborative Filtering**, **Ite
 Performance is evaluated using **Precision@10** and **Recall@10**, with a final **hybrid recommendation strategy** proposed for business deployment.  
 
 ---
+## 📂 Dataset  
+You can download the dataset from here:  
+[🔗 Amazon Electronics Ratings Dataset (Google Drive)](https://drive.google.com/file/d/1XahZcR287ke7j48I7-oj0KzmmwSSvA3Y/view?usp=sharing)
 
+---
 ## 📊 Project Overview
 - **Dataset**: Amazon Electronics ratings (~7.8M ratings, ~420k users, ~475k products).  
 - **Filtering**: Users with ≥50 ratings, Products with ≥5 ratings.  
